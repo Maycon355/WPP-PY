@@ -42,12 +42,12 @@ Python - Linguagem de programação
 Sinta-se à vontade para contribuir para este projeto abrindo problemas (issues) ou enviando solicitações de recebimento (pull requests).
 
 # Pontos Positivos
-Automatiza o processo de envio de mensagens e imagens no WhatsApp.
-Permite personalizar a mensagem e os contatos a serem enviados.
-Utiliza o Selenium, uma ferramenta de automação web amplamente usada e confiável.
-Pode ser adaptado para outros casos de uso de automação web.
-Permite o envio de mensagens em massa, economizando tempo e esforço.
-O código é modular e fácil de entender.
-Suporta o envio de imagens juntamente com as mensagens de texto.
-Possui uma licença de código aberto (MIT License), permitindo o uso e a modificação livremente.
-Tudo isso pensando na usabilidade e gravando o cache do navegador.
+Automatiza o processo de envio de mensagens e imagens no WhatsApp.<br />
+Permite personalizar a mensagem e os contatos a serem enviados.<br />
+Utiliza o Selenium, uma ferramenta de automação web amplamente usada e confiável.<br />
+Pode ser adaptado para outros casos de uso de automação web.<br />
+Permite o envio de mensagens em massa, economizando tempo e esforço.<br />
+O código é modular e fácil de entender.<br />
+Suporta o envio de imagens juntamente com as mensagens de texto.<br />
+Possui uma licença de código aberto (MIT License), permitindo o uso e a modificação livremente.<br />
+Tudo isso pensando na usabilidade e gravando o cache do navegador.<br />
