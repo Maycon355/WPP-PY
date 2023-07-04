@@ -3,8 +3,6 @@ from selenium.webdriver.common.by import By
 import os
 import time
 from selenium import webdriver
-import time
-import os
 import pyautogui
 
 #Parametros importantes
