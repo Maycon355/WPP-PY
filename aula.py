@@ -34,7 +34,6 @@ def enviamsg():
 
         for Numero in Numeros:
 
-
             chrome.get(f"https://web.whatsapp.com/{Mensagem1}{Numero}{Mensagem3}")
         
             chrome.get(f"https://web.whatsapp.com/{Mensagem1}{Numero}{Mensagem3}")
