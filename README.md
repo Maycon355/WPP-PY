@@ -1,8 +1,4 @@
 # WhatSapp - Python
-<br><br/>
-<br><br/>
-<br><br/>
-
 # Configuração
 <br>Clone o repositório:<br/>
  
