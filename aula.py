@@ -4,7 +4,6 @@ import os
 import time
 from selenium import webdriver
 import time
-# Importar biblioteca SQLite3
 import os
 import pyautogui
 
@@ -31,16 +30,11 @@ def enviamsg():
 
         chrome = webdriver.Chrome(chromedriver, options=cache)
 
-
-
-        #Função criada para pegar todos os número de wpp do banco
-       
         Numeros = ['numeros de telefone']
 
         for Numero in Numeros:
 
 
-            #numero_whatsapp = Numero[0]  # Acessar o primeiro elemento da tupla (coluna 'wpp')
             chrome.get(f"https://web.whatsapp.com/{Mensagem1}{Numero}{Mensagem3}")
         
             chrome.get(f"https://web.whatsapp.com/{Mensagem1}{Numero}{Mensagem3}")
@@ -74,14 +68,11 @@ def enviamsg():
                 print("Enviando texto...")
                 chrome.find_element(By.XPATH,'//*[@id="main"]/footer/div[1]/div/span[2]/div/div[2]/div[2]/button/span').click()  
 
-
                 time.sleep(1)
-
 
                 pyautogui.press('enter')
                 time.sleep(1)
   
-
             except Exception as e:
                 print("Erro ao enviar midia", e)
                                      
