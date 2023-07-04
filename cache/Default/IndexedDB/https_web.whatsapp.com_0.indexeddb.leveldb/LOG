@@ -1,0 +1,14 @@
+2023/07/04-09:07:32.397 15e8 Reusing MANIFEST C:\Users\maycon.silva\Documents\video canal wpp\cache\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/04-09:07:32.398 15e8 Recovering log #26
+2023/07/04-09:07:32.534 15e8 Reusing old log C:\Users\maycon.silva\Documents\video canal wpp\cache\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000026.log 
+2023/07/04-09:08:07.284 3404 Level-0 table #32: started
+2023/07/04-09:08:07.389 3404 Level-0 table #32: 1505591 bytes OK
+2023/07/04-09:08:07.401 3404 Delete type=0 #26
+2023/07/04-09:08:07.431 3508 Compacting 1@1 + 2@2 files
+2023/07/04-09:08:07.656 3508 Generated table #33@1: 35545 keys, 2202332 bytes
+2023/07/04-09:08:07.730 3508 Generated table #34@1: 25869 keys, 683441 bytes
+2023/07/04-09:08:07.730 3508 Compacted 1@1 + 2@2 files => 2885773 bytes
+2023/07/04-09:08:07.741 3508 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/07/04-09:08:07.742 3508 Delete type=2 #28
+2023/07/04-09:08:07.742 3508 Delete type=2 #29
+2023/07/04-09:08:07.742 3508 Delete type=2 #32
