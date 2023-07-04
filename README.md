@@ -55,5 +55,5 @@
 <br>Possui uma licença de código aberto (MIT License), permitindo o uso e a modificação livremente.<br />
 <br>Tudo isso pensando na usabilidade e gravando o cache do navegador.<br />
 
-# Doações para o projeto] -
+# Doações para o projeto -
 Pix: mayconmottadasilva@outlook.com;
