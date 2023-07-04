@@ -1,4 +1,4 @@
-# WhatSapp - Python
+# whatapp - Python
 # Configuração
 <br>Clone o repositório:<br/>
  
